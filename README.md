@@ -30,7 +30,7 @@ Follow these steps to run the Quiz Master application on your local machine:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <YOUR_REPOSITORY_URL>
+    git clone https://github.com/wishaldubey/quizdacoid.git
     ```
     
     ```bash
