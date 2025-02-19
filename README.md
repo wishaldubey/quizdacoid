@@ -34,7 +34,7 @@ Follow these steps to run the Quiz Master application on your local machine:
     ```
     
     ```bash
-    cd <YOUR_REPOSITORY_DIRECTORY>
+    cd quizdacoid
     ```
 
 2.  **Install dependencies:**
