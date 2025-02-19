@@ -57,5 +57,5 @@ Follow these steps to run the Quiz Master application on your local machine:
 
 You can access the deployed version of the Quiz Master application here:
 
-[https://YOUR_DEPLOYED_APP_LINK.com](https://YOUR_DEPLOYED_APP_LINK.com)
+https://quizdacoid.vercel.app
 
